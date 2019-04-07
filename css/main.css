@@ -126,6 +126,12 @@ body.fade-out {
     height: 30vh;
 }
 
+.project01{
+    margin: 0;
+    padding: 150px 30px 30px 30px;
+    animation: 2s ease-in-out 0s 1 slideInFromBottom;
+}
+
 [data-image-id="imgfirst"]{
     margin-top: 0px;
     z-index: 99999;
