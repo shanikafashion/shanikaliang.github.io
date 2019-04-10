@@ -387,7 +387,15 @@ a.red:hover {
 .col-8{width: 100%;}
 .col-9{width: 100%;}
 .col-10{width: 100%;}    
-    
+
+.description{
+    width: auto;
+    display: flex;
+    margin: 20px;
+    padding-top: 22%;
+    padding-right: 0px;
+    padding-left: 40px;
+}    
 }
 
 
